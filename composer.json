@@ -2,9 +2,9 @@
     "name": "swissup/easytabs",
     "description": "Custom tabs for product and CMS pages",
     "type": "metapackage",
-    "version": "1.7.5",
+    "version": "1.8.0",
     "license": "OSL-3.0",
     "require": {
-        "swissup/module-easytabs": "^1.7.5"
+        "swissup/module-easytabs": "^1.8.0"
     }
 }
